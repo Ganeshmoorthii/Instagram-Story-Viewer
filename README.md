@@ -1,6 +1,6 @@
 # Instagram Story Viewer and Downloader
 
-![Image Not Found](path/to/Screenshot 2024-06-21 173329.png)
+![Image Not Found](Screenshot%202024-06-21%20173329.png)
 
 This repository contains the source code for an Instagram Story Viewer and Downloader. The page allows users to watch Instagram stories anonymously and quickly without the need to log in.
 
